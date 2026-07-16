@@ -6,5 +6,5 @@ ASSMS short course on Artificial Intelligence, Python for AI, Deep Learning foun
 </p>
 
 <p align="center">
-  <img src="./images/image2.png" alt="Course Banner 2" width="1000">
+  <img src="./images/Image2.png" alt="Course Banner 2" width="1000">
 </p>
